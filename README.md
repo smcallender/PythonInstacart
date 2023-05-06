@@ -20,3 +20,12 @@ Is there a connection between age and family status in terms of ordering habits?
 What different classifications does the demographic information suggest? Age? Income? Certain types of goods? Family status?
 What differences can you find in ordering habits of different customer profiles? 
 Data Set Link: https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip
+
+Tools and Libraries
+This project utilized Python and Excel
+The following libraries were used:
+Pandas
+Numpy
+Seaborn
+Matplotlib
+Scipy
